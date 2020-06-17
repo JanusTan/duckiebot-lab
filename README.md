@@ -1,4 +1,4 @@
-# Template: template-ros
+# Using Linux, ROS, Python and OpenCv to implement self-driving and task-based robots!
 
 This template provides a boilerplate repository
 for developing ROS-based software in Duckietown.
